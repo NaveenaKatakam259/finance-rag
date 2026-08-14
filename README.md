@@ -168,9 +168,7 @@ streamlit run app.py
 
 **Naveena Katakam**
 
-B.Tech Information Technology
-
-AI & Software Development Enthusiast
+B.Tech AI/ML (Artificial Intelligence and Machine Learning)
 
 ---
 
