@@ -144,13 +144,7 @@ streamlit run app.py
 - What risks were mentioned in the quarterly report?
 - Summarize the financial highlights.
 
----
-
-## Screenshots
-
-(Add screenshots here)
-
----
+--
 
 ## Future Improvements
 
